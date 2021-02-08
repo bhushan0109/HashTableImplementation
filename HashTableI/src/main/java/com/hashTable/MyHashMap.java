@@ -1,5 +1,4 @@
 package com.hashTable;
-
 public class MyHashMap<K, V> {
 	MyLinkedList<K> myLinkedList;
 
